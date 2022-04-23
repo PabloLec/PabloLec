@@ -25,7 +25,7 @@ h2 {
   margin-top: 0;
   margin-bottom: 0.75em;
   line-height: 24px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
   color: #58a6ff;
   fill: #58a6ff;
@@ -100,7 +100,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Languages Used (By File Size)</h2>
+<h2>Languages Used</h2>
 
 <div>
 <span class="progress">
